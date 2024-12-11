@@ -1,4 +1,4 @@
-# Project Proposal: Plastic-Free Oceans - Protecting Marine Life from Plastic Pollution
+# Plastic-Free Oceans - Protecting Marine Life from Plastic Pollution
 
 Plastic pollution poses a significant threat to marine ecosystems and biodiversity. This project, titled "Plastic-Free Oceans," aims to address the problem by advocating for reduced plastic use and promoting sustainable alternatives. Through education, community involvement, and innovative solutions, the project aligns with Sustainable Development Goal (SDG) 14: *Life Below Water*, which seeks to conserve and sustainably use the oceans, seas, and marine resources.
 
