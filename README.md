@@ -2,6 +2,10 @@
 
 Plastic pollution poses a significant threat to marine ecosystems and biodiversity. This project, titled "Plastic-Free Oceans," aims to address the problem by advocating for reduced plastic use and promoting sustainable alternatives. Through education, community involvement, and innovative solutions, the project aligns with Sustainable Development Goal (SDG) 14: *Life Below Water*, which seeks to conserve and sustainably use the oceans, seas, and marine resources.
 
+![naja-bertolt-jensen-BJUoZu0mpt0-unsplash](https://github.com/user-attachments/assets/5bee6fb9-c15a-451f-b718-41fbe0c71ba4)
+
+
+
 ## Goals
 1. **Raise Awareness**: Educate communities, businesses, and governments about the dangers of plastic pollution to marine life and the importance of reducing plastic use.
 2. **Reduce Plastic Consumption**: Encourage alternatives to single-use plastics by promoting sustainable materials, reusable products, and recycling.
@@ -36,6 +40,9 @@ Plastic pollution poses a significant threat to marine ecosystems and biodiversi
 **Impact Measurement**:
 - Track the amount of plastic waste removed and measure the types of plastics most commonly found (e.g., microplastics, plastic bags, bottles).
 
+![ocg-saving-the-ocean-xch7jXAaqqo-unsplash](https://github.com/user-attachments/assets/c2bff81a-cdf9-4940-80c4-3a5f3de4e71a)
+
+
 ### Policy Advocacy
 **Actions**:
 - Partner with environmental NGOs and policy experts to advocate for stronger regulations on plastic waste, such as plastic bag bans, stricter recycling laws, and incentives for businesses that adopt eco-friendly practices.
@@ -63,10 +70,7 @@ Plastic pollution poses a significant threat to marine ecosystems and biodiversi
 - Adoption rates of plastic alternatives in partner communities.
 - Progress in policy changes and implementation.
 
-## Contact
-For more information or to get involved, please contact:
-- **Project Lead**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub Repository**: [Insert Repository Link]
+![martin-sanchez-7pkCVxSoLfU-unsplash](https://github.com/user-attachments/assets/8fcb0285-e8ed-46ad-a5cc-1a4e3f433b60)
+
 
 TOGETHER, WE CAN PROTECT MARINE LIFE AND ENSURE A SUSTAINABLE FUTURE FOR OUR OCEANS!
